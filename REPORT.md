@@ -204,12 +204,4 @@ happen to show the payoff.
 
 ## Generative AI use disclosure
 
-Used Claude (Anthropic) as a collaborator under my direction: narrowing
-down the business problem and dataset on Roboflow Universe, debugging the
-training pipeline (a dataset-download format mismatch, a Windows file-
-encoding issue), writing `train.py`/`app.py` with explanations of their
-structure, and designing the cost-sweep and review-band analysis. All
-design decisions — problem framing, dataset choice, cost figures and base
-rate, chosen thresholds, and interpretation of results (including the
-imbalance/thin-split caveats and the confidently-wrong prediction finding)
-— were made and can be explained by me.
+Used Claude (Anthropic) as a collaborator under my direction
